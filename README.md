@@ -2,6 +2,8 @@
 
 Portfolio project by `@pkim02`.
 
+**Implementation proof:** see [IMPLEMENTATION.md](IMPLEMENTATION.md) for the model classes, training loops, and outputs that show the work is implemented directly in PyTorch rather than wrapped behind a high-level training API.
+
 ## Project Goal
 
 A PyTorch implementation notebook for linear regression, logistic regression, and feedforward neural networks, including MNIST classification experiments.
